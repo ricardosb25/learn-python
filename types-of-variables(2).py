@@ -12,7 +12,7 @@ y = 2.5
 
 name = "Ricardo"
 
-#In the exemple above, the variable "x" receive an CHAR(character) which could be a word or phrases and is always between """ quotations marks
+#In the exemple above, the variable "x" receive an CHAR(character) which could be a word or phrases and is always between "" quotations marks
 
 #That is the most important variables in python
 
