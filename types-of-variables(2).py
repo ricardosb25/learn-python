@@ -14,4 +14,4 @@ name = "Ricardo"
 
 #In the exemple above, the variable "x" receive an CHAR(character) which could be a word or phrases and is always between "" quotations marks
 
-
+#these are the most used variables 
